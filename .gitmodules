@@ -1,0 +1,12 @@
+[submodule "gr4_ue1_ws"]
+	path = gr4_ue1_ws
+	url = https://github.com/MusLead/gr4_ue1_ws
+[submodule "gr4_ue2_od"]
+	path = gr4_ue2_od
+	url = https://github.com/MusLead/gr4_ue2_od
+[submodule "gr4_ue2_fe"]
+	path = gr4_ue2_fe
+	url = https://github.com/MusLead/gr4_ue2_fe
+[submodule "gr4_ue4_ekf"]
+	path = gr4_ue4_ekf
+	url = https://github.com/MusLead/gr4_ue4_ekf
