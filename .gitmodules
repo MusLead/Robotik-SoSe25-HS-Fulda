@@ -10,3 +10,6 @@
 [submodule "gr4_ue4_ekf"]
 	path = gr4_ue4_ekf
 	url = https://github.com/MusLead/gr4_ue4_ekf
+[submodule "husarion-frontier-explorer"]
+	path = husarion-frontier-explorer
+	url = https://github.com/MusLead/husarion-frontier-explorer
