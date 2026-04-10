@@ -13,3 +13,16 @@
 [submodule "husarion-frontier-explorer"]
 	path = husarion-frontier-explorer
 	url = https://github.com/MusLead/husarion-frontier-explorer
+	
+[submodule "ue1/gr4_ue1_ws"]
+	path = ue1/gr4_ue1_ws
+	url = https://github.com/MusLead/gr4_ue1_ws
+[submodule "ue2_ue3/gr4_ue2_od"]
+	path = ue2_ue3/gr4_ue2_od
+	url = https://github.com/MusLead/gr4_ue2_od
+[submodule "ue2_ue3/gr4_ue2_fe"]
+	path = ue2_ue3/gr4_ue2_fe
+	url = https://github.com/MusLead/gr4_ue2_fe
+[submodule "ue4/gr4_ue4_ekf"]
+	path = ue4/gr4_ue4_ekf
+	url = https://github.com/MusLead/gr4_ue4_ekf
